@@ -1,6 +1,8 @@
 Hello PPA World!
 =====
 
+![Build Status](https://github.com/tomlankhorst/hello-ppa-world/workflows/Build%20and%20Test/badge.svg) 
+
 A simple demo with everything in place to publish to Launchpad.
 
 ```
