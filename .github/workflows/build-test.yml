@@ -20,4 +20,4 @@ jobs:
         mkdir build
         cd build
         cmake .. -Dtest=on
-        make test
+        make && make test
