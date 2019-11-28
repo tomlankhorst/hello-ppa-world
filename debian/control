@@ -1,0 +1,13 @@
+Source: hello-ppa-world
+Section: devel
+Priority: optional
+Maintainer: Tom Lankhorst <hello@tomlankhorst.nl>
+Build-Depends: cmake, build-essential
+Homepage: https://tomlankhorst.nl/
+
+Package: hello-ppa-world
+Architecture: any
+Depends: 
+Description: First test-package
+  This package doesn't do much more than saying
+  hello to Launchpad.

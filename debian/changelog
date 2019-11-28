@@ -1,0 +1,5 @@
+hello-ppa-world (0.2-0ppa0) bionic; urgency=low
+
+  * Version bump
+
+ -- Tom Lankhorst <hello@tomlankhorst.nl>  Thu, 28 Nov 2019 11:53:00 +0100
